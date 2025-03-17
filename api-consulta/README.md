@@ -2,6 +2,8 @@
 
 API RESTful desenvolvida com Spring Boot para consulta de créditos constituídos.
 
+![alt text](image.png)
+
 ## Funcionalidades
 
 - Consulta de créditos por número da NFS-e
